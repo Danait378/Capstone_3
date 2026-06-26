@@ -20,5 +20,6 @@ The goal of this project is to help the regional sales team understand performan
 
 ## Video Link
 
-Video presentation link:
+Video presentation link: https://github.com/Danait378/Capstone_3/blob/main/video1321456789.mp4
+
 
